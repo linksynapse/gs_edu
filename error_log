@@ -1,4 +1,0 @@
-[23-Mar-2020 19:10:38 Asia/Singapore] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nscn101s/public_html/index_patch.php on line 341
-[23-Mar-2020 19:10:40 Asia/Singapore] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nscn101s/public_html/index_patch.php on line 341
-[23-Mar-2020 19:12:41 Asia/Singapore] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/nscn101s/public_html/index_patch.php on line 350
-[29-Apr-2020 09:34:28 Asia/Singapore] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/nscn101s/public_html/index.php on line 172
